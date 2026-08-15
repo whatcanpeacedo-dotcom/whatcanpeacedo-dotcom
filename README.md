@@ -8,7 +8,7 @@ HTML • CSS • JavaScript • Git • GitHub
 
 ###  Projects
 
-[HTML Forms & Tables](https://github.com/whatcanpeacedo-dotcom/html-form-and-table)
+**[HTML Forms & Tables](https://github.com/whatcanpeacedo-dotcom/html-form-and-table)**
 My first HTML project, practising forms, tables, buttons, links and connecting pages.
 
 **[Starlink Clone](https://github.com/whatcanpeacedo-dotcom/starlink-clone)**  
