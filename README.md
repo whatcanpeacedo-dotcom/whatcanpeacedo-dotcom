@@ -15,7 +15,7 @@ My first HTML project, practising forms, tables, buttons, links and connecting p
 A website recreation built while practising HTML and CSS.
 
 **[Freelancer Clone](https://github.com/whatcanpeacedo-dotcom/freelancer-clone)**  
-A website recreation. Currently working on the About and How It Works pages and making the site responsive.
+A recreation of the Freelancer website built while practising HTML and CSS.
 
 ### Currently
 
