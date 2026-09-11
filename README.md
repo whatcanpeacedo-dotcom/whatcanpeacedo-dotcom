@@ -4,7 +4,7 @@ I'm a Web Developer building websites and growing my skills through real project
 
 ###  What I'm working with:
 
-HTML • CSS • JavaScript • Git • GitHub
+HTML • CSS • JavaScript • React • Git • GitHub
 
 ###  Projects
 
